@@ -1,6 +1,6 @@
 # Engineering Impact Dashboard — PostHog
 
-> **Live Dashboard:** [URL here]
+> **Live Dashboard:** [https://weave-assignment.streamlit.app/](https://weave-assignment.streamlit.app/)
 >
 > **Approach (300 chars):** 3-stage pipeline: GitHub API → log-normalized value-based baseline (40% shipping, 30% reviews, 15% code, 15% issues) → LLM-as-judge quality multiplier (4 dimensions). Separates activity volume from engineering leverage. PR type multipliers reward features/fixes over chores.
 
