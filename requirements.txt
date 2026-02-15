@@ -1,0 +1,9 @@
+PyGithub
+python-dotenv
+pydantic
+pydantic-ai
+streamlit
+plotly
+streamlit-shadcn-ui
+streamlit-extras
+streamlit-timeline
